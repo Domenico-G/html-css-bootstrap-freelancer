@@ -35,7 +35,7 @@ nav {
   text-align: center;
   color: #fff;
   text-transform: uppercase;
-    padding: 20px 0;
+  padding: 20px 0;
 }
 
 .content-header h1 {
@@ -59,6 +59,26 @@ nav {
 /* fine header style */
 
 /* main style */
+
+.portfolio {
+  padding: 20px 0;
+}
+
+.portfolio-title {
+  text-align: center;
+  color: #2C3E50;
+  text-transform: uppercase;
+}
+
+.portfolio-title h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.img-portfolio {
+  margin: 10px 0;
+}
+
 
 
 /* fine main style */
