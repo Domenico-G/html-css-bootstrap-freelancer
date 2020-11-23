@@ -1,0 +1,64 @@
+/* common style - class utility */
+
+.bg-green{
+  background: #1ABC9C;
+}
+
+.star::after{
+  display: inline-block;
+  content: "";
+  border-top: 4px solid;
+  width: 80px;
+  transform: translateY(-9px);
+  border-radius: 5px;
+}
+
+.star::before{
+  display: inline-block;
+  content: "";
+  border-top: 5px solid;
+  width: 80px;
+  transform: translateY(-9px);
+  border-radius: 5px;
+}
+
+
+/* common style - class utility */
+
+/* header style */
+nav {
+  height: 80px;
+  background: #2C3E50;
+}
+
+.content-header {
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+    padding: 20px 0;
+}
+
+.content-header h1 {
+  font-weight: 700;
+}
+
+.content-header p {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.avatar {
+  height: 290px;
+}
+
+.star i {
+  font-size: 29px;
+  padding: 10px 15px 18px;
+}
+
+/* fine header style */
+
+/* main style */
+
+
+/* fine main style */
