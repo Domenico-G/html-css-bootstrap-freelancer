@@ -117,3 +117,27 @@ nav {
 .about .btn i {
   padding: 0 5px 0 0;
 }
+
+/* fine about style */
+
+/* contact style */
+.contact-title {
+  text-align: center;
+  color: #2C3E50;
+  text-transform: uppercase;
+}
+.contact-title h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+form {
+  width: 300px;
+  margin: 10px auto;
+}
+
+form .form-control {
+  border: 0px solid #888;
+}
+
+/* fine contact style */
